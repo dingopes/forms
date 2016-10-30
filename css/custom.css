@@ -79,7 +79,16 @@ h2 {
 	font-size:.8em;
 }
 
+tr {
+    text-align: center;
+}
 
+#clanky th {
+    padding-top: 11px;
+    padding-bottom: 11px;
+    background-color:#00abd0;
+    color:white;
+    }
 
 @media only screen and (max-width: 64.063em) {
 
